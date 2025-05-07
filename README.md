@@ -14,6 +14,7 @@ Fleet Management provides registration form for users to create their accounts a
 ### App (Credentials)
 
 -   Admin Account: `admin@gmail.com` & Password: `Nady_1234`
+-   Admin Account: `admin@example.com` & Password: `secret`
 -   Normal Account: `normal@gmail.com` & Password: `password`
 
 ## Technologies Used
